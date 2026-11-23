@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#071A4B" />
+      <stop offset="55%" stop-color="#0D2B7A" />
+      <stop offset="100%" stop-color="#155EEF" />
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="110" y1="110" x2="402" y2="402" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#34D399" />
+      <stop offset="50%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" />
+  <circle cx="256" cy="256" r="146" stroke="url(#ringGrad)" stroke-width="26" stroke-linecap="round" stroke-dasharray="760 180" />
+  <path d="M196 176H316M196 226H316M256 176C284 176 300 194 300 216C300 240 282 256 250 256H202L292 344" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="364" cy="148" r="18" fill="#10B981" />
+</svg>

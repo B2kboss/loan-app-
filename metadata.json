@@ -1,0 +1,6 @@
+{
+  "name": "India Loan",
+  "description": "India Loan — Transparent, digital-first personal lending platform with instant eligibility checks, 5-step loan applications, live tracking, sandbox UPI repayments, and a mobile-first PWA experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
